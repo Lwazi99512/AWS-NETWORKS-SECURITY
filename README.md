@@ -2,7 +2,6 @@
 VPC Traffic flow and security
 # AWS VPC Traffic Control & Security Project
 
-![AWS VPC Architecture](https://d1.awsstatic.com/security-center/architecture_diagrams/aws-vpc-architecture.8b739b1f5fe8d8a5f5d5b5d5c5d5b5d5.png)
 
 ## 🌐 Project Overview
 Designed a secure **Amazon Virtual Private Cloud (VPC)** network with:
